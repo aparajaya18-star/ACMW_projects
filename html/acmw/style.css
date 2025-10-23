@@ -1,0 +1,60 @@
+#main-header{
+    border-radius: 25px;
+    text-align:center;
+    background-color:rgb(73, 12, 130);
+    color:white;
+    padding:10px;
+    }
+
+body{
+    background-color:lavender;
+    color:black;
+}
+
+
+.about_me,.skills,.education,.recent,.projects{
+
+    margin:auto;
+    border-radius: 20px;
+    border :2px solid rgb(73, 12, 130);
+    width:90%;
+    padding:15px;
+    background-color:rgb(205, 205, 235);
+    font: 18px Arial, sans-serif;
+    h3{
+        font-size: 24px;
+    text-align:center;
+    color:rgb(73, 12, 130);
+    }
+}
+.about_me,.contact{
+     text-align: center;
+     background-color: rgb(215, 210, 240);
+}
+
+a:link {
+  color: rgb(73, 12, 130);
+  text-decoration: none;
+}
+
+a:visited {
+  color: blueviolet;
+  text-decoration: none;
+}
+
+a:hover {
+  color: hotpink;
+  text-decoration: none;
+}
+
+a:active {
+  color: navy;
+  text-decoration: none;
+}
+
+
+#main-footer{
+            text-align:center;
+            font-size:18px;
+            }
+        
